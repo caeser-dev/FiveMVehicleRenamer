@@ -28,6 +28,9 @@ Der FiveM Vehicle Renamer ermöglicht es Ihnen, alle Fahrzeugdateien innerhalb e
 ### Keine unbefugte Verbreitung oder Modifikationen  
 Jegliche Form von Verbreitung, Veränderung oder Umgehung der Software ohne ausdrückliche Erlaubnis ist nicht gestattet.  
 
+![image](https://github.com/user-attachments/assets/55917751-f82b-4f99-a229-b62983fcae80)
+
+
 ---  
 
 ## English  
